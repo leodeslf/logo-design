@@ -4,7 +4,7 @@
 
 ## Base
 
-* [Manual de Identidad](base/manual-de-identidad.md)
+* [Manual de Identidad](base/brand_book.md)
 
 ## FAQ
 

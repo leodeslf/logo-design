@@ -4,7 +4,7 @@ Documentos de soporte al Cliente.
 
 ## Base
 
-1. [Manual de Identidad](base/manual-de-identidad.md)
+1. [Manual de Identidad](base/brand_book.md)
 
 ## FAQ
 
